@@ -1,3 +1,3 @@
 # ColorAdaptNet
 
-dataset and code will upcoming soon.
+Dataset and code will be available soon.
